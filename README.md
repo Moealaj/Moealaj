@@ -22,8 +22,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### Hi there 👋
-
 
 ---
 
@@ -36,7 +34,7 @@ I am a Cyber Security Specialist  <img src="https://media.giphy.com/media/WUlplc
 
 - :zap: In my free time, I do some malware analysis .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alhaj-osman-mohammed-04662a1a3)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alhaj-osman-mohammed-04662a1a3)
 
 ---
 
@@ -49,7 +47,6 @@ I am a Cyber Security Specialist  <img src="https://media.giphy.com/media/WUlplc
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://nmap.org/images/sitelogo-nmap.svg" title="Nmap" alt="Nmap" width="40" height="40"/>&nbsp;
-<img src="https://icons8.com/icon/25250/burp-suite" title="Burpsuite" alt="Burpsuite" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -57,12 +54,13 @@ I am a Cyber Security Specialist  <img src="https://media.giphy.com/media/WUlplc
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Moealaj&theme=dark&background=000000)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moealaj)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moealaj&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :writing_hand: Blog Posts
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
